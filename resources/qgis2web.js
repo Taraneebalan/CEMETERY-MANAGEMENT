@@ -846,7 +846,7 @@ document.getElementsByClassName('gcd-gl-btn')[0].className += ' fa fa-search';
 
 var searchLayer = new SearchLayer({
     layer: lyr_LOTKUBUR_4,
-    colName: 'B.KUBUR',
+    colName: 'NAMA ARWAH',
     zoom: 10,
     collapsed: true,
     map: map
